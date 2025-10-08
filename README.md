@@ -1,4 +1,5 @@
 # K8s Kind Voting App
+notion https://www.notion.so/chouhan/vote-app-286d334e18a68081838bdd52c4058ee3?source=copy_link
 
 
 [Screencast from 2025-10-08 12-54-20.webm](https://github.com/user-attachments/assets/19585a4a-6cb1-4b63-ba97-bb53a7daaf81)
